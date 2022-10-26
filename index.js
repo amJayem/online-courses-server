@@ -11,6 +11,16 @@ app.get('/', (req, res) => {
   res.send('hello world')
 });
 
+app.get('/course-details', (req, res)=>{
+    res.send(courseDetails);
+})
+
+app.get('/course-details/:id', (req, res)=>{
+    const id = req.params.id;
+    const courseById = courseDetails.find(course => course.id == id);
+    res.send(courseById);
+})
+
 app.listen(port, ()=>{
     console.log('Sever running on port: ', port);
 });
