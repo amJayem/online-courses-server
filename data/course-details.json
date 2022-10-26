@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "bookImg": "https://qph.cf2.quoracdn.net/main-qimg-b91473f01f3f0e6ae62b909e0c84f22d-lq",
+        "courseName": "Programming language",
+        "courseDetails": "This course would be an introduction to the foundations of computation and purpose of mechanized computation. Emphasis will be placed on techniques of problem analysis and the development of algorithms and programs. Topics will include        1. Introduction to digital computers and programming algorithms and flow chart construction.        2. Information representation in digital computers. Writing, debugging and running programs (including file handling) on various digital computers using an appropriate language.        3. Data structures, abstraction, recursion, iteration, as well as the design and analysis of basic algorithms.        The course includes a compulsory 3 hour laboratory work each week. Students will be expected to do homework assignments in problem solving and program design as well as weekly laboratory assignments to reinforce the lecture material.",
+        "suggestedBooks": "Appropriate book for the language chosen by the course teacher"
+    },
+    {
+        "id": 2,
+        "bookImg": "https://static-01.daraz.com.bd/p/6f1fec7d01a2b5b8f514e8293583942a.png",
+        "courseName":"Data Structures",
+        "courseDetails": "Introduction to widely used and effective methods of data organisation, focussing on data structures, their algorithms and the performance of these algorithms. Concepts and examples, elementary data objects, elementary data structures, arrays, lists, stacks, queues, graphs, trees, compound structures, data abstraction and primitive operations on these structures. memory management; sorting and searching; hash techniques; Introduction to the fundamental algorithms and data structures: recursion, backtrack search, lists, stacks, queues, trees, operation on sets, priority queues, graph dictionary. Introduction to the analysis of algorithms to process the basic structures. A brief introduction to database systems and the analysis of data structure performance and use in these systems. The course includes a compulsory 3 hour laboratory work alternate week.",
+        "suggestedBooks": "Data Structures with C (SIE) (Schaum's Outline Series)"
+    },
+    {
+        "id": 3,
+        "bookImg": "https://tug.org/books/images/knuth-fascicle5.jpg",
+        "courseName":"Algorithms ",
+        "courseDetails": "The study of efficient algorithms and effective algorithm design techniques. Techniques for analysis of algorithms, Methods for the design of efficient algorithms :Divide and Conquer paradigm, Greedy method, Dynamic programming, Backtracking, Basic search and traversal techniques, Graph algorithms, Elementary parallel algorithms, Algebraic simplification and transformations, Lower bound theory, NP-hard and NP-complete problems. Techniques for the design and analysis of efficient algorithms, Emphasizing methods useful in practice. sorting; Data structures for sets: Heaps, Hashing; Graph algorithms: Shortest paths, Depth-first search, Network flow, Computational geometry; Integer arithmetic: gcd, optimality; polynomial and matrix calculations; amortized analysis; Performance bounds, asymptotic and analysis, worst case and average case behavior, correctness and complexity. Particular classes of algorithms such as sorting and searching are studied in detail. The course includes a compulsory 3 hour laboratory work alternate week.",
+        "suggestedBooks": "Donald E. Knuth,'Art of Computer Programming, Volume 1: Fundamental Algorithms 'Addison-Wesley Professional; 3rd edition, 1997."
+    },
+    {
+        "id": 4,
+        "bookImg": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348359570l/424923.jpg",
+        "courseName":"Object Oriented Programming",
+        "courseDetails": "An introduction to object oriented programming using. Java is the language typically used to illustrate the concepts, but another suitable language may be substituted by the instructor. Topics covered include object instances, classes, inheritance, polymorphism and abstraction mechanism. Problem domain analysis and system design using object oriented approach. Object oriented database and object persistency. Software principles for object oriented approach. Advantages and problems with using object oriented approach to developing systems. The course includes a compulsory 3 hour laboratory work each week.",
+        "suggestedBooks": " Grady Booch,'Object Oriented analysis and Design', 2nd ed., Addison-Wesley, 1993."
+    },
+    {
+        "id": 5,
+        "bookImg": "https://m.media-amazon.com/images/I/51spVw9pGKL.jpg",
+        "courseName":"Operating Systems",
+        "courseDetails": "Principles of operating systems: design objects; sequential process; concurrent processes, functional mutual exclusion, processor co-operation and deadlocks, management. Control and scheduling of large information processing systems. Dispatching processor access methods, job control languages memory addressing, paging and store multiplexing, and time sharing, batch processing. Scheduling algorithms, file systems, and security; semaphores and critical sections, device drivers, multiprocessing, sharing, design and implementation methodology, performance evaluation and case studies. The course includes a compulsory 3 hour laboratory work each week.",
+        "suggestedBooks": "Silberschatz G. Gagne and P. B. Galvin,'Operating System Concepts', 6th ed., Wiley, 2002.        "
+    },
+    {
+        "id": 6,
+        "bookImg": "https://images-na.ssl-images-amazon.com/images/I/713LnlupOwL._AC_UL900_SR615,900_.jpg",
+        "courseName":"Computer Architecture",
+        "courseDetails": "A systematic study of the various elements in computer design, including circuit design, storage mechanisms, addressing schemes, and various approaches to parallelism and distributed logic. Information representation and transfer; instruction and data access methods; the control unit; hardware and microprogrammed; memory organization. RISC and CISC machines.",
+        "suggestedBooks": "D. A. Patterson, J. L. Hennessy, P. J. Ashenden J. R. Larus and D. J. Sorin,'Computer Organization and Design: The Hardware/Software Interface', 3rd ed., Morgan Kauffmann, 2004."
+    },
+    {
+        "id": 7,
+        "bookImg": "https://m.media-amazon.com/images/I/51IBmkQUFuL._AC_SY780_.jpg",
+        "courseName":"Database Systems",
+        "courseDetails": "Introduction to concepts and methods for storing and manipulating data in stored form. File retrieval and organisation. Database models and designing of database systems. The principles of database management systems. Relational database management systems. Query formulation and language. Database administration. Methods used for the storage, selection and presentation of Data. Database integrity and security. Students will work with database languages and popular application packages. Common database management systems. Structure of SQL and principals behind the design of SQL. Students must complete four SQL assignments in the lab. The course includes a compulsory 3 hour laboratory work each week.",
+        "suggestedBooks": "Ramez Elmasri, Shamkant B. Navathe,' Fundamentals of Database Systems', Addison Wesley; 4th edition, 2003.        "
+    }
+]

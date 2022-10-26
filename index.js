@@ -5,7 +5,8 @@ const port = process.env.PORT || 5000;
 
 app.use(cors());
 
-// respond with "hello world" when a GET request is made to the homepage
+const courseDetails = require('./data/course-details.json');
+
 app.get('/', (req, res) => {
   res.send('hello world')
 });
