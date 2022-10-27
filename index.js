@@ -8,7 +8,7 @@ app.use(cors());
 const courseDetails = require('./data/course-details.json');
 
 app.get('/', (req, res) => {
-  res.send('hello world')
+  res.send('Server is running')
 });
 
 app.get('/course-details', (req, res)=>{
